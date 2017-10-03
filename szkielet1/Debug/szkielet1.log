@@ -1,0 +1,8 @@
+﻿  main_file.cpp
+c:\users\wojtek\desktop\sokoban\pl_szkielet3_win\szkielet1\main_file.cpp(64): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\wojtek\desktop\sokoban\pl_szkielet3_win\szkielet1\main_file.cpp(65): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\wojtek\desktop\sokoban\pl_szkielet3_win\szkielet1\main_file.cpp(171): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\wojtek\desktop\sokoban\pl_szkielet3_win\szkielet1\main_file.cpp(171): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\wojtek\desktop\sokoban\pl_szkielet3_win\szkielet1\main_file.cpp(514): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  szkielet1.vcxproj -> C:\Users\Wojtek\Desktop\sokoban\pl_szkielet3_win\Debug\szkielet1.exe
+  szkielet1.vcxproj -> C:\Users\Wojtek\Desktop\sokoban\pl_szkielet3_win\Debug\szkielet1.pdb (Full PDB)
